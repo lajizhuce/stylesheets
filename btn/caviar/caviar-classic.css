@@ -23,7 +23,7 @@ body {
 a {
   text-decoration: none;
   border: none;
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -340,7 +340,7 @@ ul.thin li {
 }
 #content > h1 a,
 #content > h2 a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -354,7 +354,7 @@ ul.thin li {
 }
 #content > div.thin > h2 a,
 #content > div.thin > p a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -384,7 +384,7 @@ ul.thin li {
 }
 
 #content div.filter_torrents > h3 a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -406,7 +406,7 @@ ul.thin li {
   font-weight: 900;
 }
 #footer a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -1444,7 +1444,7 @@ input[value="Make Default"] {
   width: 1001px;
 }
 .filter_torrents .box.pad .cat_list a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -1487,7 +1487,7 @@ input[value="Make Default"] {
 .filter_torrents .country_list td {
   padding-left: 12px;
   background-color: #212121;
-  color: #bc2722;
+  color: #f8b749;
 }
 .filter_torrents .country_list tr {
   border-bottom: none;
@@ -1517,7 +1517,7 @@ input[value="Make Default"] {
   white-space: pre;
 }
 .torrent_table tr.group_torrent.discog td > a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -1609,7 +1609,7 @@ a[title="View Series"] {
   transition: none;
 }
 a[title="View Series"]:hover, a[title="View Series"]:focus, a[title="View Series"]:active {
-  color: #bc2722;
+  color: #f8b749;
 }
 
 table.torrent_table tr.torrent > td:nth-child(2) {
@@ -1795,7 +1795,7 @@ div.rating-bg {
   padding: 0 !important;
 }
 .ui-widget-content a {
-  color: #bc2722 !important;
+  color: #f8b749 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -2216,7 +2216,7 @@ body ul.navigation .colhead {
   max-height: 16px;
 }
 .user_profile > h2:first-child a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -2251,7 +2251,7 @@ body ul.navigation .colhead {
   padding: 0;
 }
 #slider > h2:first-child a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -2467,7 +2467,7 @@ body#bonus .thin > .box {
   background: none;
 }
 body#bonus .thin > .box > .pad:first-child > a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -2588,7 +2588,7 @@ input.hidden {
 div.linkbox {
   text-align: center;
   padding: 5px;
-  color: #bc2722;
+  color: #f8b749;
 }
 div.linkbox:empty {
   display: none;
@@ -2600,7 +2600,7 @@ div.linkbox > strong {
   color: #d9d9d9;
 }
 div.linkbox > a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -2670,7 +2670,7 @@ body div.contenth textarea:focus {
   padding-bottom: 0;
 }
 #reseed_box #swapreseed {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -3116,7 +3116,7 @@ body#recommend #info_dialog {
   font-size: 14px !important;
 }
 body#recommend #info_dialog a {
-  color: #bc2722 !important;
+  color: #f8b749 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4459,7 +4459,7 @@ body#staff .box.pad[style="padding:0px 10px 10px 10px;"] {
 }
 
 body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a {
-  color: #bc2722;
+  color: #f8b749;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
